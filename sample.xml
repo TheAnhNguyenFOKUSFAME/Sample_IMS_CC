@@ -23,7 +23,7 @@
                         <displayName>test_kurs 1.1</displayName>
                         <clm_api_url.de_ext/>
                         <order>0</order>
-                        <item identifierRef="7c479c36-5cd5-41f7-8db9-62e4cadd7462">
+                        <item identifierRef="550e8400-e29b-41d4-a716-446655440010">
                             <createdAt>2026-02-20T08:33:07.494Z</createdAt>
                             <updatedAt>2026-02-20T08:33:07.494Z</updatedAt>
                             <iconUrl/>
@@ -45,7 +45,7 @@
                         <displayName>test_kurs 1.2</displayName>
                         <clm_api_url.de_ext/>
                         <order>1</order>
-                        <item identifierRef="d84656e6-5f13-4caa-bd36-5cd68cf0339c">
+                        <item identifierRef="550e8400-e29b-41d4-a716-446655440011">
                             <createdAt>2026-02-20T08:33:19.621Z</createdAt>
                             <updatedAt>2026-02-20T08:33:19.621Z</updatedAt>
                             <iconUrl/>
@@ -66,7 +66,7 @@
         </organization>
     </organizations>
     <resources>
-        <resource type="imsbasiclti_xmlv1p0" identifier="7c479c36-5cd5-41f7-8db9-62e4cadd7462">
+        <resource type="imsbasiclti_xmlv1p0" identifier="550e8400-e29b-41d4-a716-446655440010">
             <cartridge_basiclti_link xsi:schemaLocation="http://www.imsglobal.org/xsd/imslticc_v1p0 http://www.imsglobal.org/xsd/lti/ltiv1p0/imslticc_v1p0.xsd http://www.imsglobal.org/xsd/imsbasiclti_v1p0 http://www.imsglobal.org/xsd/lti/ltiv1p0/imsbasiclti_v1p0p1.xsd http://www.imsglobal.org/xsd/imslticm_v1p0 http://www.imsglobal.org/xsd/lti/ltiv1p0/imslticm_v1p0.xsd http://www.imsglobal.org/xsd/imslticp_v1p0 http://www.imsglobal.org/xsd/lti/ltiv1p0/imslticp_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslticc_v1p0" xmlns:blti="http://www.imsglobal.org/xsd/imsbasiclti_v1p0" xmlns:lticm="http://www.imsglobal.org/xsd/imslticm_v1p0" xmlns:lticp="http://www.imsglobal.org/xsd/imslticp_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <blti:_id>0854aac5-00b3-4688-9614-36dde5cfcfab</blti:_id>
                 <blti:createdAt>2024-07-23T20:05:32.914Z</blti:createdAt>
@@ -87,7 +87,7 @@
                 <target>iframe</target>
             </cartridge_basiclti_link>
         </resource>
-        <resource type="imsbasiclti_xmlv1p0" identifier="d84656e6-5f13-4caa-bd36-5cd68cf0339c">
+        <resource type="imsbasiclti_xmlv1p0" identifier="550e8400-e29b-41d4-a716-446655440011">
             <cartridge_basiclti_link xsi:schemaLocation="http://www.imsglobal.org/xsd/imslticc_v1p0 http://www.imsglobal.org/xsd/lti/ltiv1p0/imslticc_v1p0.xsd http://www.imsglobal.org/xsd/imsbasiclti_v1p0 http://www.imsglobal.org/xsd/lti/ltiv1p0/imsbasiclti_v1p0p1.xsd http://www.imsglobal.org/xsd/imslticm_v1p0 http://www.imsglobal.org/xsd/lti/ltiv1p0/imslticm_v1p0.xsd http://www.imsglobal.org/xsd/imslticp_v1p0 http://www.imsglobal.org/xsd/lti/ltiv1p0/imslticp_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslticc_v1p0" xmlns:blti="http://www.imsglobal.org/xsd/imsbasiclti_v1p0" xmlns:lticm="http://www.imsglobal.org/xsd/imslticm_v1p0" xmlns:lticp="http://www.imsglobal.org/xsd/imslticp_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <blti:_id>07832db9-21e5-4092-8efd-55bb75b08de9</blti:_id>
                 <blti:createdAt>2024-04-04T11:41:32.185Z</blti:createdAt>
