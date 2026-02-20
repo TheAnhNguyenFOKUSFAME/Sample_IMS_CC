@@ -37,28 +37,6 @@
                         <totalChildren>1</totalChildren>
                         <hasMore>false</hasMore>
                     </item>
-                    <item>
-                        <_id>641173c8-1469-4873-932d-11eb27a2103e</_id>
-                        <createdAt>2026-02-20T08:32:54.415Z</createdAt>
-                        <updatedAt>2026-02-20T08:32:54.415Z</updatedAt>
-                        <iconUrl/>
-                        <displayName>test_kurs 1.2</displayName>
-                        <clm_api_url.de_ext/>
-                        <order>1</order>
-                        <item identifierRef="550e8400-e29b-41d4-a716-446655440011">
-                            <createdAt>2026-02-20T08:33:19.621Z</createdAt>
-                            <updatedAt>2026-02-20T08:33:19.621Z</updatedAt>
-                            <iconUrl/>
-                            <displayName>Linear Algebra</displayName>
-                            <clm_api_url.de_ext/>
-                            <order>0</order>
-                            <totalChildren>0</totalChildren>
-                            <hasMore>false</hasMore>
-                            <launchType>lti11</launchType>
-                        </item>
-                        <totalChildren>1</totalChildren>
-                        <hasMore>false</hasMore>
-                    </item>
                     <totalChildren>2</totalChildren>
                     <hasMore>false</hasMore>
                 </item>
@@ -68,7 +46,7 @@
     <resources>
         <resource type="imsbasiclti_xmlv1p0" identifier="550e8400-e29b-41d4-a716-446655440010">
             <cartridge_basiclti_link xsi:schemaLocation="http://www.imsglobal.org/xsd/imslticc_v1p0 http://www.imsglobal.org/xsd/lti/ltiv1p0/imslticc_v1p0.xsd http://www.imsglobal.org/xsd/imsbasiclti_v1p0 http://www.imsglobal.org/xsd/lti/ltiv1p0/imsbasiclti_v1p0p1.xsd http://www.imsglobal.org/xsd/imslticm_v1p0 http://www.imsglobal.org/xsd/lti/ltiv1p0/imslticm_v1p0.xsd http://www.imsglobal.org/xsd/imslticp_v1p0 http://www.imsglobal.org/xsd/lti/ltiv1p0/imslticp_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslticc_v1p0" xmlns:blti="http://www.imsglobal.org/xsd/imsbasiclti_v1p0" xmlns:lticm="http://www.imsglobal.org/xsd/imslticm_v1p0" xmlns:lticp="http://www.imsglobal.org/xsd/imslticp_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-                <blti:_id>550e8400-e29b-41d4-a716-446655440010</blti:_id>
+                <blti:_id>550e8400-e29b-41d4-a716-446655440012</blti:_id>
                 <blti:createdAt>2024-07-23T20:05:32.914Z</blti:createdAt>
                 <blti:updatedAt>2024-07-23T20:05:32.914Z</blti:updatedAt>
                 <blti:target>iframe</blti:target>
@@ -83,27 +61,6 @@
                 <launch_url>https://clm_api_url.de/api/launch/0854aac5-00b3-4688-9614-36dde5cfcfab</launch_url>
                 <blti:launch_url>https://clm_api_url.de/api/launch/0854aac5-00b3-4688-9614-36dde5cfcfab</blti:launch_url>
                 <blti:secure_launch_url>https://clm_api_url.de/api/launch/0854aac5-00b3-4688-9614-36dde5cfcfab</blti:secure_launch_url>
-                <storage_access>true</storage_access>
-                <target>iframe</target>
-            </cartridge_basiclti_link>
-        </resource>
-        <resource type="imsbasiclti_xmlv1p0" identifier="550e8400-e29b-41d4-a716-446655440011">
-            <cartridge_basiclti_link xsi:schemaLocation="http://www.imsglobal.org/xsd/imslticc_v1p0 http://www.imsglobal.org/xsd/lti/ltiv1p0/imslticc_v1p0.xsd http://www.imsglobal.org/xsd/imsbasiclti_v1p0 http://www.imsglobal.org/xsd/lti/ltiv1p0/imsbasiclti_v1p0p1.xsd http://www.imsglobal.org/xsd/imslticm_v1p0 http://www.imsglobal.org/xsd/lti/ltiv1p0/imslticm_v1p0.xsd http://www.imsglobal.org/xsd/imslticp_v1p0 http://www.imsglobal.org/xsd/lti/ltiv1p0/imslticp_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslticc_v1p0" xmlns:blti="http://www.imsglobal.org/xsd/imsbasiclti_v1p0" xmlns:lticm="http://www.imsglobal.org/xsd/imslticm_v1p0" xmlns:lticp="http://www.imsglobal.org/xsd/imslticp_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-                <blti:_id>550e8400-e29b-41d4-a716-446655440011</blti:_id>
-                <blti:createdAt>2024-04-04T11:41:32.185Z</blti:createdAt>
-                <blti:updatedAt>2024-10-29T13:54:03.485Z</blti:updatedAt>
-                <blti:target>iframe</blti:target>
-                <blti:target_link_uri>https://clm_api_url.de/api/lti-wrapper/lti/1278a045-3690-49d8-80b8-9fae95eae123</blti:target_link_uri>
-                <blti:type>LTI11</blti:type>
-                <blti:displayName>Linear Algebra</blti:displayName>
-                <blti:storageAccess>true</blti:storageAccess>
-                <blti:roles>Self</blti:roles>
-                <blti:launchType>lti11</blti:launchType>
-                <blti:oauth_consumer_key>eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJ0ZXN0QHRlc3QudGxkIiwiaWF0IjoxNzcxNTc2NDM2LCJleHAiOjE3NzE1ODcyMzYsImlzcyI6Imh0dHBzOi8va2lsbXMuZm9rdXMuZnJhdW5ob2Zlci5kZS9hcGkiLCJzdWIiOiJ0ZXN0QHRlc3QudGxkIn0.iIxcQdsn5KyRKyp7d-qaMZh6QoaTaY9lhJaci_ap6VY</blti:oauth_consumer_key>
-                <title>Linear Algebra</title>
-                <launch_url>https://clm_api_url.de/api/launch/07832db9-21e5-4092-8efd-55bb75b08de9</launch_url>
-                <blti:launch_url>https://clm_api_url.de/api/launch/07832db9-21e5-4092-8efd-55bb75b08de9</blti:launch_url>
-                <blti:secure_launch_url>https://clm_api_url.de/api/launch/07832db9-21e5-4092-8efd-55bb75b08de9</blti:secure_launch_url>
                 <storage_access>true</storage_access>
                 <target>iframe</target>
             </cartridge_basiclti_link>
